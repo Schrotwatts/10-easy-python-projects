@@ -16,3 +16,4 @@ ALso i will be attaching my youtube video for this, which you can refer to for s
 2. pip install pillow
 3. pip install PIL
 
+you can run the pip install on "command prompt" or on jupyter notebook as "!pip install xxx"
